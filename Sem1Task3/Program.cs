@@ -39,5 +39,5 @@ if(imputLine!=null)
 //Вариант 3
 
 //    string outDayOfWeek = System.Globalization.CultureInfo.GetCultureInfo("ru-RU").DateTimeFormat.GetDayName((DayOfWeek)Enum.GetValues(typeof(DayOfWeek)).GetValue(imputNumber));
-    Console.WriteLine(outDayOfWeek);
+//    Console.WriteLine(outDayOfWeek);
 //}
