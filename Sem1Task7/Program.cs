@@ -9,5 +9,5 @@ if (imputNumLine != null)
     int lastDigit = imputNumberA % 10;
 
     Console.WriteLine(lastDigit);
-
+//Finish
 }
