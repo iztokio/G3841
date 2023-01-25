@@ -6,10 +6,10 @@ if(inputNum1!=null && inputNum2!=null)
     int number2 = int.Parse(inputNum2);
     if (number1 > number2)
     {
-        Console.WriteLine(number1);
+        Console.WriteLine("число " + number1 + " больше числа " + number2);
     }
     else
     {
-        Console.WriteLine(number2);
+        Console.WriteLine("число " + number2 + " больше числа " + number1);
     }
 }
