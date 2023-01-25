@@ -10,6 +10,6 @@ if(inputNum1!=null && inputNum2!=null)
     }
     else
     {
-        Console.Write(number2);
+        Console.WriteLine(number2);
     }
 }
