@@ -1,5 +1,5 @@
 ﻿string? inputNum = Console.ReadLine();
-if(inputNum!=null)
+if (inputNum != null)
 {
     int number = int.Parse(inputNum);
     if (number % 2 == 0)
