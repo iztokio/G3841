@@ -13,7 +13,9 @@
 // int num = int.Parse(Console.ReadLine() ?? "0");
 // if ((num%7==0)&&(num%23==0)){
 //     Console.WriteLine("кратное");
-// }else{
+// }
+//else
+//{
 //     Console.WriteLine("не кратное 7и и 23ём");
 // }
 int num1 = int.Parse(Console.ReadLine()??"0");

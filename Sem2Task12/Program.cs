@@ -7,5 +7,5 @@ if(result==0)
 }
 else
 {
-Console.WriteLine("Не кратно "+result);
+    Console.WriteLine("Не кратно "+result);
 }
