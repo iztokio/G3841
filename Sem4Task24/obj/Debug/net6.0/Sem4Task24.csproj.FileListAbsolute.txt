@@ -1,0 +1,15 @@
+C:\Users\Tema\Desktop\gitstady\G3841\Sem4Task24\bin\Debug\net6.0\Sem4Task24.exe
+C:\Users\Tema\Desktop\gitstady\G3841\Sem4Task24\bin\Debug\net6.0\Sem4Task24.deps.json
+C:\Users\Tema\Desktop\gitstady\G3841\Sem4Task24\bin\Debug\net6.0\Sem4Task24.runtimeconfig.json
+C:\Users\Tema\Desktop\gitstady\G3841\Sem4Task24\bin\Debug\net6.0\Sem4Task24.dll
+C:\Users\Tema\Desktop\gitstady\G3841\Sem4Task24\bin\Debug\net6.0\Sem4Task24.pdb
+C:\Users\Tema\Desktop\gitstady\G3841\Sem4Task24\obj\Debug\net6.0\Sem4Task24.csproj.AssemblyReference.cache
+C:\Users\Tema\Desktop\gitstady\G3841\Sem4Task24\obj\Debug\net6.0\Sem4Task24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tema\Desktop\gitstady\G3841\Sem4Task24\obj\Debug\net6.0\Sem4Task24.AssemblyInfoInputs.cache
+C:\Users\Tema\Desktop\gitstady\G3841\Sem4Task24\obj\Debug\net6.0\Sem4Task24.AssemblyInfo.cs
+C:\Users\Tema\Desktop\gitstady\G3841\Sem4Task24\obj\Debug\net6.0\Sem4Task24.csproj.CoreCompileInputs.cache
+C:\Users\Tema\Desktop\gitstady\G3841\Sem4Task24\obj\Debug\net6.0\Sem4Task24.dll
+C:\Users\Tema\Desktop\gitstady\G3841\Sem4Task24\obj\Debug\net6.0\refint\Sem4Task24.dll
+C:\Users\Tema\Desktop\gitstady\G3841\Sem4Task24\obj\Debug\net6.0\Sem4Task24.pdb
+C:\Users\Tema\Desktop\gitstady\G3841\Sem4Task24\obj\Debug\net6.0\Sem4Task24.genruntimeconfig.cache
+C:\Users\Tema\Desktop\gitstady\G3841\Sem4Task24\obj\Debug\net6.0\ref\Sem4Task24.dll
