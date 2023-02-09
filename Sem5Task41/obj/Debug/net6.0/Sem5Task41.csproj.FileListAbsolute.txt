@@ -1,0 +1,15 @@
+C:\Users\Tema\Desktop\gitstady\G3841\Sem5Task41\bin\Debug\net6.0\Sem5Task41.exe
+C:\Users\Tema\Desktop\gitstady\G3841\Sem5Task41\bin\Debug\net6.0\Sem5Task41.deps.json
+C:\Users\Tema\Desktop\gitstady\G3841\Sem5Task41\bin\Debug\net6.0\Sem5Task41.runtimeconfig.json
+C:\Users\Tema\Desktop\gitstady\G3841\Sem5Task41\bin\Debug\net6.0\Sem5Task41.dll
+C:\Users\Tema\Desktop\gitstady\G3841\Sem5Task41\bin\Debug\net6.0\Sem5Task41.pdb
+C:\Users\Tema\Desktop\gitstady\G3841\Sem5Task41\obj\Debug\net6.0\Sem5Task41.csproj.AssemblyReference.cache
+C:\Users\Tema\Desktop\gitstady\G3841\Sem5Task41\obj\Debug\net6.0\Sem5Task41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tema\Desktop\gitstady\G3841\Sem5Task41\obj\Debug\net6.0\Sem5Task41.AssemblyInfoInputs.cache
+C:\Users\Tema\Desktop\gitstady\G3841\Sem5Task41\obj\Debug\net6.0\Sem5Task41.AssemblyInfo.cs
+C:\Users\Tema\Desktop\gitstady\G3841\Sem5Task41\obj\Debug\net6.0\Sem5Task41.csproj.CoreCompileInputs.cache
+C:\Users\Tema\Desktop\gitstady\G3841\Sem5Task41\obj\Debug\net6.0\Sem5Task41.dll
+C:\Users\Tema\Desktop\gitstady\G3841\Sem5Task41\obj\Debug\net6.0\refint\Sem5Task41.dll
+C:\Users\Tema\Desktop\gitstady\G3841\Sem5Task41\obj\Debug\net6.0\Sem5Task41.pdb
+C:\Users\Tema\Desktop\gitstady\G3841\Sem5Task41\obj\Debug\net6.0\Sem5Task41.genruntimeconfig.cache
+C:\Users\Tema\Desktop\gitstady\G3841\Sem5Task41\obj\Debug\net6.0\ref\Sem5Task41.dll
