@@ -62,8 +62,7 @@ void showArray(int[,] arr)
     {
         for (int j = 0; j < ylen; j++)
         {
-            
-        Console.Write(arr[i,j]+"\t");
+            Console.Write(arr[i, j] + "\t");
         }
         Console.WriteLine("");
     }

@@ -3,7 +3,7 @@
 // одномерный массив (последний элемент будет на
 // первом месте, а первый - на последнем и т.д.)
 
-int[] arr = GenArray(20,1,100);
+int[] arr = GenArray(20, 1, 100);
 Console.WriteLine("Исходны массив");
 Print1DArr(arr);
 
@@ -44,10 +44,10 @@ void Print1DArr(int[] arr)
 int[] SwapArray(int[] arr)
 {
     int bufElement = 0;
-    for(int i =0;i<arr.Length/2;i++)
+    for (int i = 0; i < arr.Length / 2; i++)
     {
-        bufElement = arr[arr.Length-1-i];
-        arr[arr.Length-1-i] = arr[i];
+        bufElement = arr[arr.Length - 1 - i];
+        arr[arr.Length - 1 - i] = arr[i];
         arr[i] = bufElement;
     }
     return arr;
@@ -56,9 +56,9 @@ int[] SwapArray(int[] arr)
 int[] SwapNewArray(int[] arr)
 {
     int[] outArr = new int[arr.Length];
-    for(int i =0;i<arr.Length;i++)
+    for (int i = 0; i < arr.Length; i++)
     {
-        outArr[i] = arr[arr.Length-1-i];
+        outArr[i] = arr[arr.Length - 1 - i];
     }
     return outArr;
 }

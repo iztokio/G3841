@@ -3,8 +3,8 @@
 int num1 = int.Parse(Console.ReadLine() ?? "0");// Ввод первого числа
 int num2 = int.Parse(Console.ReadLine() ?? "0");// Ввод второго числа
 //сравнение возведённого в квадрат числа с другим числом
-TestSQRT(num1,num2);
-TestSQRT(num2,num1);
+TestSQRT(num1, num2);
+TestSQRT(num2, num1);
 
 void TestSQRT(int i, int j)
 {

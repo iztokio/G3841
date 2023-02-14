@@ -4,14 +4,14 @@
 //Считаем данные с консоли
 string? inputNum = Console.ReadLine();
 
-//СПроверяем чтобы данные были не пустыми
-if(inputNum!=null)
+//Проверяем чтобы данные были не пустыми
+if (inputNum != null)
 {
     //Парсим введенное число
     int number = int.Parse(inputNum);
     //Находим квадрат числа
     //int result = number*number;
-    int result = (int)Math.Pow(number,2);
+    int result = (int)Math.Pow(number, 2);
 
     //Выводим данные в консоль
     Console.WriteLine(result);

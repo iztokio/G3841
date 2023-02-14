@@ -29,6 +29,6 @@ int Pow(int a, int b)
 int a = ReadData("Введите число A");
 int b = ReadData("Введите число B");
 
-int res = Pow(a,b);
+int res = Pow(a, b);
 
 PrintData($"Число {a} в степени {b} равно: ", res);

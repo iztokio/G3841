@@ -16,25 +16,25 @@ void PrintData(string msg1, int msg2)
 
 int SumDigit(int num)
 {
-    int res =0;
-    while(num>0)
+    int res = 0;
+    while (num > 0)
     {
         res++;
-        num=num/10;
+        num = num / 10;
     }
     return res;
 }
 
 int SumDigStr(int num)
 {
-    int res =0;
+    int res = 0;
     res = num.ToString().Length;
-    return res; 
+    return res;
 }
 
 int VariantLog(int num)
 {
-    int count = (int)Math.Log10(num)+1;
+    int count = (int)Math.Log10(num) + 1;
     return count;
 }
 
@@ -43,14 +43,14 @@ int number = ReadData("Введите число: ");
 DateTime d1 = DateTime.Now;
 int res1 = SumDigit(number);
 Console.WriteLine(DateTime.Now - d1);
-PrintData("Вариант (SumDigit): ",res1);
+PrintData("Вариант (SumDigit): ", res1);
 
 DateTime d2 = DateTime.Now;
 int res2 = SumDigStr(number);
 Console.WriteLine(DateTime.Now - d2);
-PrintData("Вариант (SumDigStr): ",res2);
+PrintData("Вариант (SumDigStr): ", res2);
 
 DateTime d3 = DateTime.Now;
 int res3 = VariantLog(number);
 Console.WriteLine(DateTime.Now - d3);
-PrintData("Вариант (VariantLog): ",res3);
+PrintData("Вариант (VariantLog): ", res3);

@@ -50,14 +50,14 @@ void show1DArray(double[] arr)
 }
 double[] convert1DArray(double[] nums)
 {
-    double[] arr1={};
-    for (int i = 0; i < nums.Length/2; i++)
+    double[] arr1 = { };
+    for (int i = 0; i < nums.Length / 2; i++)
     {
-        arr1=arr1.Append(nums[i] * nums[nums.Length - 1 - i]).ToArray();
+        arr1 = arr1.Append(nums[i] * nums[nums.Length - 1 - i]).ToArray();
     }
-    if (Convert.ToDouble(nums.Length)/2!=Convert.ToDouble(nums.Length/2))
+    if (Convert.ToDouble(nums.Length) / 2 != Convert.ToDouble(nums.Length / 2))
     {
-         arr1=arr1.Append(Math.Pow(nums[nums.Length/2],2)).ToArray();
+        arr1 = arr1.Append(Math.Pow(nums[nums.Length / 2], 2)).ToArray();
     }
     return arr1;
 }

@@ -35,4 +35,4 @@ string line1 = LineBuilder(num, 1);
 string line2 = LineBuilder(num, 2);
 
 // Вывод данных
-PrintData(line1,line2);
+PrintData(line1, line2);

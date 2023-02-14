@@ -48,10 +48,10 @@ int CountElem(int[] arr)
 
 bool Test(int n)
 {
-    return (n>10&&n<99);
+    return (n > 10 && n < 99);
 }
 
-int[] testArr = Gen1DArray(123,0,1000);
+int[] testArr = Gen1DArray(123, 0, 1000);
 Print1DArr(testArr);
 int count = CountElem(testArr);
-PrintData("Количество элементов в отрезке [10,99] :"+count);
+PrintData("Количество элементов в отрезке [10,99] :" + count);

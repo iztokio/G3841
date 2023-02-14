@@ -53,7 +53,7 @@ int result = Search(testArr, element);
 
 if (result >= 0)
 {
-    PrintData("Элемент найден в позиции: " + (result+1));
+    PrintData("Элемент найден в позиции: " + (result + 1));
 }
 else
 {

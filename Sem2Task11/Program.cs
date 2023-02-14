@@ -15,7 +15,7 @@
 
 System.Random random = new System.Random();
 
-int randomNumber = random.Next(100,1000);
+int randomNumber = random.Next(100, 1000);
 
 Console.WriteLine("число: " + randomNumber);
 

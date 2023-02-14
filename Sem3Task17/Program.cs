@@ -3,7 +3,7 @@
 //  причём X ≠ 0 и Y ≠ 0 и выдаёт номер четверти плоскости, в которой находится эта точка.
 int coordX = ReadData("Введите координату X");
 int coordY = ReadData("Введите координату Y");
-PrintQuterTest(coordX,coordY);
+PrintQuterTest(coordX, coordY);
 
 //Метод читает данные от пользователя
 int ReadData(string msg)

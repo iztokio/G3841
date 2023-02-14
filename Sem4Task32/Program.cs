@@ -42,11 +42,11 @@
 // }
 
 
-int[] testArr = Gen1DArr(12,-9,9);
-Print1DArr(testArr);
-InvArr(testArr);
-int[] testArrNew = InvArrNew(testArr);
-Print1DArr(testArr);
+// int[] testArr = Gen1DArr(12,-9,9);
+// Print1DArr(testArr);
+// InvArr(testArr);
+// int[] testArrNew = InvArrNew(testArr);
+// Print1DArr(testArr);
 
 Random rnd = new Random();
 int InputNum(string msg)

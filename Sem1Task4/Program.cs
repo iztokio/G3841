@@ -1,7 +1,7 @@
 ﻿string? inputNum1 = Console.ReadLine();
 string? inputNum2 = Console.ReadLine();
 string? inputNum3 = Console.ReadLine();
-if(inputNum1!=null && inputNum2!=null && inputNum3!=null)
+if (inputNum1 != null && inputNum2 != null && inputNum3 != null)
 {
     int number1 = int.Parse(inputNum1);
     int number2 = int.Parse(inputNum2);
