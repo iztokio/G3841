@@ -21,7 +21,6 @@ int[,,] Gen3DArray(int x, int y, int z, int min, int max)
             {
                 mass[i, j, k] = new Random().Next(min, max + 1);
             }
-
         }
     }
     return mass;
@@ -45,10 +44,10 @@ void Print3DArray(int[,,] mass)
     Console.WriteLine();
 }
 
-    int x = ReadData("Введите количество цифр по оси X: ");
-    int y = ReadData("Введите количество цифр по оси Y: ");
-    int z = ReadData("Введите количество цифр по оси Z: ");
+int x = ReadData("Введите количество цифр по оси X: ");
+int y = ReadData("Введите количество цифр по оси Y: ");
+int z = ReadData("Введите количество цифр по оси Z: ");
 
-    int[,,] mass = Gen3DArray(x, y, z, 10, 99);
+int[,,] mass = Gen3DArray(x, y, z, 10, 99);
 
-    Print3DArray(mass);
+Print3DArray(mass);
